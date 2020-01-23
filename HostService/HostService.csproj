@@ -58,10 +58,6 @@
       <Project>{6D928774-DD32-4E2D-85AE-C353909F4C22}</Project>
       <Name>MessagesPublisher</Name>
     </ProjectReference>
-    <ProjectReference Include="..\Subscription\Subscription.csproj">
-      <Project>{b90043e8-2144-4f3e-ad66-5d66dfba5018}</Project>
-      <Name>Subscription</Name>
-    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
